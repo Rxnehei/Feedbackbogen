@@ -1,0 +1,33 @@
+table{
+    width: 500px;
+    }
+    th {
+    
+        text-align: left;
+    }
+h2, h4{
+    text-align: center;
+    height: 45px;
+}
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+tr{
+    background:lightgray;
+}
+td{
+    background:white;
+}
+h6{
+    text-align:center;
+}
+h5{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p3{
+    text-align: center;
+}
